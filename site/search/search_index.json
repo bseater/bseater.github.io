@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Index","text":"<p>Hopefully the beginings of a new site.</p> <p>For now just testing hosting mkdocs generated content on GitHub Pages.</p>"},{"location":"about/","title":"About","text":"<p>Nothing to see here, yet.</p>"},{"location":"blog/","title":"Blog","text":""}]}
